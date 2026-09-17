@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mishab 👋
 
-<!--
-**misab8/misab8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI/ML Engineer documenting my journey from foundational computer science to deploying practical machine learning models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Doing
+- 📚 Enrolled in an intensive Artificial Intelligence & Machine Learning program.
+- 💻 Practicing daily problem-solving, data structures, and Python implementations.
+- 🚀 Building and deploying end-to-end ML mini-projects.
+- ✍️ Documenting concepts, post-mortems, and code breakdowns in public.
+
+---
+
+### 📊 Tech Stack & Tools
+- **Languages:** Python, C, C++, HTML, CSS, JavaScript
+- **Core Interests:** Machine Learning, Algorithms, Data Engineering, Applied AI
+- **Tools:** Git, GitHub, VS Code, Linux
+
+---
+
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mishabmuhammedramzy/)
